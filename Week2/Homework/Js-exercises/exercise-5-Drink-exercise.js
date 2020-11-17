@@ -17,3 +17,4 @@ while(addingDrinks){
     }
 }
 console.log('Hey guys, I brought a ' + drinkTray.join(' ') + '!!!')
+//I did it just like what Yash said
