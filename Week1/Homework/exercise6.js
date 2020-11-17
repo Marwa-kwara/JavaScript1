@@ -1,5 +1,5 @@
 let zooAnimals=[]
-console.log("I think arry is empty and the out put of it is undefind");
+console.log("I think arry is empty and the out put of it is an empty array");
 console.log(zooAnimals);
 
 let myFavoriteAnimals =[
@@ -8,5 +8,5 @@ let myFavoriteAnimals =[
 console.log(typeof myFavoriteAnimals);
 console.log(myFavoriteAnimals);
 
-myFavoriteAnimals.onMoreAnimal=["piglet"];
-console.log(myFavoriteAnimals.onMoreAnimal);
+myFavoriteAnimals.push('piglet')
+console.log(myFavoriteAnimals);
