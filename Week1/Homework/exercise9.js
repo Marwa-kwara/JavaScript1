@@ -1,6 +1,6 @@
 let x=7;
-let xAfterafterTheCalculation=1;
+console.log(x%3);
 let y=21;
-let yAfterafterTheCalculation=1;
+console.log(y%4);
 let z=13;
-let zAfterafterTheCalculation=1;
+console.log(z%2);
